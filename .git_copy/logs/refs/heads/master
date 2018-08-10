@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 1e627caaf0aed5badaf6b4715cff420c8ccb9a48 Mohit Garg <mohitce@vt.edu> 1533696487 -0400	commit (initial): Initial
+1e627caaf0aed5badaf6b4715cff420c8ccb9a48 273b158686d5bcbe6bf0850d23ed9d1a86c0fb08 Mohit Garg <mohitce@vt.edu> 1533702627 -0400	commit: Sending proposal successfull
+273b158686d5bcbe6bf0850d23ed9d1a86c0fb08 16d77de8184b1899b15726099a66680f90fa6828 Mohit Garg <mohitce@vt.edu> 1533707585 -0400	commit: Working transaction
+16d77de8184b1899b15726099a66680f90fa6828 6b3d2656e30c89d2d7f0fcb7f8fb2d71e9a0dedb Mohit Garg <mohitce@vt.edu> 1533707698 -0400	commit: Working transaction
+6b3d2656e30c89d2d7f0fcb7f8fb2d71e9a0dedb d6ee12cf8feaec37d45c6ac6717add7be4653c28 Mohit Garg <mohitce@vt.edu> 1533709117 -0400	commit: Repricing complete
+d6ee12cf8feaec37d45c6ac6717add7be4653c28 5d7c68336a6faecafc944cfc747177782ffb61ed Mohit Garg <mohitce@vt.edu> 1533711569 -0400	commit: Problem with query by owner
+5d7c68336a6faecafc944cfc747177782ffb61ed d1fcfd4c0955aaf49852ddd64ef1f28819c60edb Mohit Garg <mohitce@vt.edu> 1533791449 -0400	commit: Working chaincode
+d1fcfd4c0955aaf49852ddd64ef1f28819c60edb 7addbe57fb4742eb5c52c58eb89ffba2a4ba79db Mohit Garg <mohitce@vt.edu> 1533847146 -0400	commit: Api for most methods
+7addbe57fb4742eb5c52c58eb89ffba2a4ba79db 6c279a346f77fbb94e922d870469f8f3c7b6682b Mohit Garg <mohitce@vt.edu> 1533848096 -0400	commit: Added pretty entry
+6c279a346f77fbb94e922d870469f8f3c7b6682b 267ef938e90a38b21769556093789a1d8f001706 Mohit Garg <mohitce@vt.edu> 1533855857 -0400	commit: Working stuff
+267ef938e90a38b21769556093789a1d8f001706 ebca33723f2fe385eaec702cf4de756cb8685f73 Mohit Garg <mohitce@vt.edu> 1533872512 -0400	commit: Working 2
+ebca33723f2fe385eaec702cf4de756cb8685f73 267f367ef3aaf64fbb7054be87efda9735989f08 Mohit Garg <mohitce@vt.edu> 1533872855 -0400	commit: Working finally after locking price etc
